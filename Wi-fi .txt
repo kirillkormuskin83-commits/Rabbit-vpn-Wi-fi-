@@ -22,5 +22,12 @@ vless://ac3e64f5-3a23-49ee-b090-131cdc4254ad@5.alexander77.ru:42479?mode=gun&sec
 vless://574d15f3-f566-4cec-a89f-c172bf7b2bce@5.alexander77.ru:55454?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%40vlessrus
 vless://4ef78a39-19f6-4aee-a302-eb66a8f3723e@5.alexander77.ru:24779?mode=gun&security=none&encryption=none&type=grpc#%40vlessrus
 vless://e786178b-88cc-4e86-a65d-0fb3f45c1687@5.alexander77.ru:51076?security=none&encryption=none&headerType=none&type=tcp#%40vlessrus
-
+vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?type=tcp&security=reality&encryption=none&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&fp=chrome&sni=www.samsung.com&sid=b0&spx=%2F&flow=xtls-rprx-vision#🇩🇪CVEDC%20%7C%7C%20WI-FI
+vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@45.39.84.3:443?type=tcp&security=reality&encryption=none&pbk=XzXaeryroBh9j9SA3i-0lUQoKZUoWalLwoAnDfJeZQo&fp=chrome&sni=www.tesla.com&sid=39&spx=%2F&flow=xtls-rprx-vision#🇱🇻CVEDC%20%7C%7C%20WI-FI
+vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@109.172.91.53:8443?type=tcp&security=reality&encryption=none&pbk=1T8Qj4onpdi52VKasgf-MhKiVRydOe9IG0WDtaJRi3A&fp=chrome&sni=www.tesla.com&sid=44&spx=%2F&flow=xtls-rprx-vision#🇷🇺CVEDC%20%7C%7C%20WI-FI
+vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@147.45.41.142:8443?type=tcp&security=reality&encryption=none&pbk=Zxilys20Tl55BREReGUjC7oTGUaMbDMEzjsaCGrc214&fp=chrome&sni=www.tesla.com&sid=c6&spx=%2F&flow=xtls-rprx-vision#🇦🇹CVEDC%20%7C%7C%20WI-FI
+vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@62.60.249.88:2083?type=tcp&security=reality&encryption=none&pbk=lyXHFLdWHfjriC3-mOTsYavCn2x51WfMy1cRGa2-fBE&fp=chrome&sni=www.tesla.com&sid=89&spx=%2F&flow=xtls-rprx-vision#🇫🇮CVEDC%20%7C%7C%20WI-FI
+vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@45.39.84.196:443?type=tcp&security=reality&encryption=none&pbk=ixYhkBwKUgdvD8Dx2NcwETAhszYZgZOX1JNhpF7c2js&fp=chrome&sni=www.tesla.com&sid=76&spx=%2F&flow=xtls-rprx-vision#🇪🇺CVEDC%20%7C%7C%20WI-FI
+vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@45.39.84.3:443?type=tcp&security=reality&encryption=none&pbk=XzXaeryroBh9j9SA3i-0lUQoKZUoWalLwoAnDfJeZQo&fp=chrome&sni=www.tesla.com&sid=39&spx=%2F&flow=xtls-rprx-vision#🇪🇺CVEDC%20%7C%7C%20WI-FI
+vless://9a3e3ee0-08f1-4c87-8e8b-bb3c650ee1f1@144.31.166.79:443?security=reality&encryption=none&pbk=7m0DQocBpPduly9i4RMJQQQN8RI2tr2Z4tQURWMozyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#%20%F0%9F%87%A9%F0%9F%87%AA%20LPN%20%2F%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%202
 
